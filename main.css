@@ -2,5 +2,7 @@
 .about-text{
   color: black ;
   font-size: 15px;
-
+}
+.center-me{
+  text-align: center;
 }
