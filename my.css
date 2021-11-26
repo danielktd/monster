@@ -1,0 +1,25 @@
+#my{
+    color: white;
+
+}
+
+  #my input[type="email"] {
+    width: 100%;
+    height: 5.4rem;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    padding: 1.2rem 170px 1.2rem 24px;
+    background: rgba(255, 255, 255, 0.05);
+    color: white;
+    margin-bottom: 1.8rem;
+  }
+  .btnnotify{
+    color: #FFFFFF;
+    background: #ec008c;
+    border-color: #ec008c;
+    padding: 0 25px;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
