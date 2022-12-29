@@ -1,0 +1,32 @@
+#logo{
+    height: 50px;
+    text-align: center;
+}
+#timer div {
+    display: inline-block;
+    min-width: 90px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#timer div span {
+    color:  #FC3;
+    display: block;
+    font-size: .35em;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#timer {
+    font-size: 3em;
+    font-weight: 800;
+    color: white;
+    text-shadow: 0 0 50px  #FC3;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.images{
+    height:460px;
+    box-shadow: 0 0 50px  #FC3 ;
+}
